@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "title": "Dair",
+      "price": "777 777 777",
+      "description": "isakovdair010@gmail.com",
+      "image": "https://i.pinimg.com/564x/9b/dd/90/9bdd9089ba2e4d64a26caeef19b1552a.jpg",
+      "id": 1
+    },
+    {
+      "title": "Nazar",
+      "price": "996 453 353",
+      "description": "nazar_lox.@gmail.com",
+      "image": "https://i.pinimg.com/564x/e7/fd/65/e7fd653ba5322b80500d80ed52c7c91c.jpg",
+      "id": 2
+    },
+    {
+      "title": "Sanjar",
+      "price": "996 888 888",
+      "description": "sanjik08@gmail.com",
+      "image": "https://i.pinimg.com/564x/6d/3d/b6/6d3db6570c24fca6113f4a5cffe58068.jpg",
+      "id": 3
+    },
+    {
+      "title": "Abbas",
+      "price": "996 999 999",
+      "description": "abbas01@gmaiil.com",
+      "image": "https://i.pinimg.com/564x/22/83/9f/22839f49ff07e7b22ac6e1c7087961b2.jpg",
+      "id": 4
+    }
+  ]
+}
